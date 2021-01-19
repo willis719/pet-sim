@@ -26,4 +26,4 @@ class Menu:
         return choice_string
 
     def print_menu_error(self):
-        print("That was not a valid choice. Try again.\n\n\n")
+        print("That was not a valid choice. Try again!\n\n\n")
